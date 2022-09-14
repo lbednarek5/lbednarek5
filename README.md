@@ -3,6 +3,6 @@
 - 🧠 I’m currently in school for Cognitive and Behavioral Neuroscience
 
 <!---
-lbednarek5/lbednarek5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+lbednarek5/welcome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
